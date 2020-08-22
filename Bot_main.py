@@ -3,7 +3,7 @@ import time
 from PIL import ImageGrab
 import pyautogui
 
-X = 300.0  # X2 = X + 90
+X = 500.0  # X2 = X + 90
 Y1 = 380
 Y2 = 470
 
